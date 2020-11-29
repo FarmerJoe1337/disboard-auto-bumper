@@ -8,6 +8,7 @@ TOKEN = 'your tokens here'
 
 @client.command()
 async def start(ctx):
+    await ctx.message.delete()
     while 1:
         try:
             await ctx.send('!d bump')
