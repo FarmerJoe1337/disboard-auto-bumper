@@ -1,5 +1,5 @@
 # disboard auto bumber
-auto dumping is gay but had nothing else to make so here you go
+auto bumping is gay but had nothing else to make so here you go
 
 # how to use:
 1. put your discord token under TOKEN in main.py. (better to use a alt account)
