@@ -13,6 +13,6 @@ async def start(ctx):
             await ctx.send('!d bump')
             await time.sleep(7220)
         except:
-            print('err bump failed')
+            break
             
 client.run(TOKEN, bot = False)
