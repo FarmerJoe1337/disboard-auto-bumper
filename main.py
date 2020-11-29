@@ -2,7 +2,7 @@ import time
 import discord
 from discord.ext import commands
 
-client = commands.Bot(".", self_bot = True)
+client = commands.Bot('.', self_bot = True)
 
 TOKEN = 'your tokens here'
 
